@@ -77,7 +77,7 @@ For more installation options, including Arch Linux, Nix, Webi, MacPorts, and Al
 1. Clone the `imager` repository:
     ```bash
     git clone https://github.com/yourusername/imager.git
-    cd img_flasher
+    cd imager
     ```
 
 2. Create a `config.yaml` file in the same directory with the following structure:
@@ -111,4 +111,3 @@ drive_name: /dev/sdb
 - Run the script with `sudo` to ensure you have the necessary permissions.
 
 For more information on using `yq`, refer to the [yq documentation](https://mikefarah.gitbook.io/yq/).
-```
