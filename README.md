@@ -1,6 +1,6 @@
-# img_flasher
+# Imager
 
-`img_flasher` is a simple script for flashing disk images to USB drives.
+`imager` is a simple script for flashing disk images to USB drives.
 
 ## Prerequisites
 
@@ -74,9 +74,9 @@ For more installation options, including Arch Linux, Nix, Webi, MacPorts, and Al
 
 ## Usage
 
-1. Clone the `img_flasher` repository:
+1. Clone the `imager` repository:
     ```bash
-    git clone https://github.com/yourusername/img_flasher.git
+    git clone https://github.com/yourusername/imager.git
     cd img_flasher
     ```
 
@@ -112,5 +112,3 @@ drive_name: /dev/sdb
 
 For more information on using `yq`, refer to the [yq documentation](https://mikefarah.gitbook.io/yq/).
 ```
-
-This `README.md` file provides detailed installation instructions for `yq` on various operating systems, as well as usage instructions for the `img_flasher` tool.
