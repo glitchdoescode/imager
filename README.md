@@ -1,6 +1,3 @@
-Here is the `README.md` file with comprehensive instructions for using the `img_flasher` tool, including detailed steps for installing `yq` on various operating systems:
-
-```markdown
 # img_flasher
 
 `img_flasher` is a simple script for flashing disk images to USB drives.
